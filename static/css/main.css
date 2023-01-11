@@ -1,0 +1,37 @@
+h1 {
+  color: rgb(138, 221, 12);
+  text-align: center;
+  padding: 10px;
+  text-decoration: underline;
+}
+
+h3 {
+  color: rgb(138, 221, 12);
+  text-decoration: underline;
+}
+
+a {
+  color: rgb(50, 178, 200);
+  font-weight: bold;
+}
+
+table,
+th,
+td {
+  border: 1px solid rgb(85, 8, 8);
+  padding: 15px;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+button {
+  background: transparent;
+  border: none !important;
+}
+
+img {
+  max-width: 100%;
+}
